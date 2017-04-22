@@ -1,0 +1,15 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "angrybees",
+    "name": "Angry Bees",
+    "description": "Adds angry bees to Pam's HarvestCraft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://minecraft.curseforge.com/projects/angry-bees",
+    "authorList": ["Konlii"],
+    "logoFile": "/logo.png",
+    "dependencies": ["harvestcraft"],
+    "useDependencyInformation": true
+  }]
+}

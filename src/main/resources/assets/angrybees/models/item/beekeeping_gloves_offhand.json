@@ -1,0 +1,55 @@
+{
+    "textures": {
+        "gloves": "angrybees:items/beekeeping_gloves"
+    },
+    "elements": [
+		{
+			"from": [ 10.0, 8.0, 4.0 ], 
+			"to": [ 14.0, 12.0, 12.0 ], 
+			"faces": {
+				"north": { "texture": "#gloves", "uv": [ 4.0, 0.0, 8.0, 4.0 ] },
+				"east": { "texture": "#gloves", "uv": [ 0.0, 8.0, 8.0, 12.0 ] },
+				"south": { "texture": "#gloves", "uv": [ 4.0, 4.0, 8.0, 8.0 ] },
+				"west": { "texture": "#gloves", "uv": [ 8.0, 12.0, 0.0, 16.0 ] },
+				"up": { "texture": "#gloves", "uv": [ 0.0, 0.0, 4.0, 8.0 ] },
+				"down": { "texture": "#gloves", "uv": [ 8.0, 0.0, 12.0, 8.0 ] }
+			}
+		}
+    ],
+	"display": {
+		"thirdperson_lefthand": {
+			"translation": [ 4.8, -4.4, 4.4 ],
+			"scale": [ 1.2, 1.2, 1.2 ],
+			"rotation": [ 0, 0, 0 ]
+		},
+		"thirdperson_righthand":{
+			"translation": [ -4.8, -4.4, 4.4 ],
+			"scale": [ 1.2, 1.2, 1.2 ],
+			"rotation": [ 0, 0, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.75, 0.75, 0.75 ],
+			"rotation": [ 45, -5, -20 ]
+		},
+		"firstperson_righthand": {
+			"translation": [ -4.5, 2, -1 ],
+			"scale": [ 0.8, 0.8, 0.8 ],
+			"rotation": [ 40, -15, -15 ]
+		},
+		"ground":{
+			"scale": [ 1, 1, 1 ],
+			"translation": [ 0, 3, 0 ]
+		},
+		"gui":{
+			"rotation":[ 35, -135, 0 ],
+			"translation": [ 5, 0, 5 ],
+			"scale": [ 1.8, 1.8, 1.8 ]
+		},
+		"fixed": {
+			"rotation":[ 0, 90, 0 ],
+			"translation": [ 0, -5, 7 ],
+			"scale": [ 1.8, 1.8, 1.8 ]
+		}
+	}
+}

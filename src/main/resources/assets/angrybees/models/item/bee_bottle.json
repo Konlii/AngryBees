@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "angrybees:items/bee_bottle"
+    }
+}

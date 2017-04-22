@@ -1,0 +1,13 @@
+death.attack.angrybees.bees=%s was swarmed by angry bees!
+angrybees.subtitle.bee.buzz=Bees buzz
+angrybees.subtitle.bee.sting=Bees sting
+potion.effect.angrybeespotiontype=Potion of Angry Bees
+splash_potion.effect.angrybeespotiontype=Splash Potion of Angry Bees
+lingering_potion.effect.angrybeespotiontype=Lingering Potion of Angry Bees
+item.angrybees:beekeeping_chestplate.name=Beekeeping Tunic
+item.angrybees:beekeeping_leggings.name=Beekeeping Leggings
+item.angrybees:beekeeping_boots.name=Beekeeping Boots
+item.angrybees:beekeeping_gloves_mainhand.name=Mainhanded Beekeeping Glove
+item.angrybees:beekeeping_helmet.name=Beekeeping Hat
+item.angrybees:beekeeping_gloves_offhand.name=Offhanded Beekeeping Glove
+item.angrybees:bee_bottle.name=Bee in a Bottle

@@ -1,0 +1,33 @@
+{
+	"bee.buzz": {
+		"category": "hostile",
+		"subtitle": "angrybees.subtitle.bee.buzz",
+		"sounds":
+		[
+			{
+				"name": "angrybees:beebuzz1",
+				"pitch": 1.0,
+				"weight": 10,
+				"stream": false
+			},
+			{
+				"name": "angrybees:beebuzz2",
+				"pitch": 1.0,
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"bee.sting": {
+		"category": "hostile",
+		"subtitle": "angrybees.subtitle.bee.sting",
+		"sounds":
+		[
+			{
+				"name": "angrybees:beesting",
+				"pitch": 1.0,
+				"stream": false
+			}
+		]
+	}
+}
